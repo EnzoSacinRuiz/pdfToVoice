@@ -1,0 +1,596 @@
+1The use qualities of digital designs
+Jonas Löwgren
+complete draft 1.0, Oct 21, 2002
+Interaction design is about creating conditions for good use of digital designs. But 
+the only way to learn those conditions, to understand the relations between design 
+choices and resulting use, is still largely by practice and apprenticeship. I propose to 
+think about interaction design in terms of use qualities, i.e., certain properties of a 
+digital design that are experienced in its use. Such qualities transcend the specifi  c 
+design and offer a language in which to talk about desirable design outcomes. 
+I present a map of some twenty proposed use qualities and discuss them in some 
+detail.
+INTRODUCTION
+The nature of computing has changed over the last twenty or thirty years. 
+More importantly, the use of computing has evolved accordingly. This is 
+obvious but still deserves pointing out now and again. Whereas comput-
+ers largely used to be tools for well-defi  ned business tasks, they are now 
+used by most people for general knowledge work, social communication, 
+entertainment, recreation, shopping, creative expression and so on. A 
+crucial difference between then and now is that most use is discretionary. 
+People choose to use a digital service or product if they want to; other-
+wise not.
+Interaction designers are concerned with creating conditions for good 
+use. We do not know, however, what those conditions really are. One 
+thing that should be clear from the above is that good use is not confi  ned 
+to effi  cient and error-free performance of tasks with set goals.
+In my own design work, I have been occupied at times with reasonably 
+large sets of (somewhat) structured information. How could we imagine 
+people drawing more value, benefi  t, meaning from such information 
+spaces? And what can I contribute as an interaction designer? A few ex-
+amples are Sens-A-Patch and the post-hoc worknotes project (Löwgren, 2001; 
+Andersson et al., 2002; web-09).2As I developed concepts and prototypes, studied the empirical research 
+around knowledge work, and explored the ideas of other designers work-
+ing in the fi  eld, a certain use quality started to emerge as highly relevant 
+to good use. Following the Pliant research group (web-08), I call it the 
+quality of pliability. A set of information is pliable if it feels to the user 
+like a responsive material. Inquiry, exploration and learning is a tight 
+loop between senses, thought and action. I make a move – the informa-
+tion, the material shapes and responds – I notice something – I make 
+another move – and so on. 
+Pliability is an example of a use quality that I propose as important for 
+a certain class or genre of digital designs. At times, I have even claimed 
+that there exist genre-essential use qualities, i.e, qualities that are neces-
+sarily present in the use of all instances of digital designs belonging to the 
+genre in question. Currently, I am prepared to back down a bit. After all, 
+it is perfectly possible that there are examples of good use in, e.g., interac-
+tive information spaces that are not pliable at all.
+I do, however, stand by the idea of identifying important use quali-
+ties. It is my fi  rm belief that attempts to articulate genres in digital design 
+and their corresponding use qualities are quite valuable in bringing the 
+fi  eld forward. First, they help practicing designers identify and move in 
+relevant directions in the early phases of contact with a new design situ-
+ation. Secondly, they help clarify the communication between designers 
+and other stakeholders, primarily the clients. Thirdly, they provide a 
+format for constructing transferable design knowledge and thus hint at 
+one possible expression for a science of digital design.
+IDENTIFYING USE QUALITIES 
+OF DIGITAL DESIGNS
+In the following, I identify a few use qualities of digital designs that I 
+fi  nd important and possibly fruitful. They are grouped together in fi  ve 
+clusters, as the fi  gure on next page shows.
+Maps such as the one below always have a sense of fi  nality, as though 
+they were the last word on the subject. However, I want to strongly em-
+phasize the tentative nature of the work. It should be seen as a statement 
+in an ongoing debate, where the goal is not to win the argument. The 
+goal is rather the debate itself; to modify my initial proposal, question 
+my choices and structures, and add new concepts is to contribute to the 
+development of an amorphous body of knowledge that facilitates design 
+and supports better use of digital designs.
+I called the map a »statement«, not an »opening statement«. There is 
+already a debate among designers, researchers, analysts and critics on the 
+conditions for good use of digital designs. Unfortunately, it is quite scat-
+tered across the academic literature, the trade press and the professional 
+fora of digital design.
+My work has consisted in pulling some of the threads together and 
+relating them to each other. This is in itself a statement on what I have 3chosen to include and omit, and what structure I have chosen. A small 
+part of the map is based on my own fi  rst-hand design experience, primar-
+ily the notions of seductivity, pliability and social actability. I also have a 
+fairly strong background in the mainstream of HCI which entails quali-
+ties such as effi  ciency and transparency. The rest of the concepts draw on 
+publicly available material such as other designers’ refl  ections, scientifi  c 
+use studies and digital design critiques. I have introduced some of the 
+labels, whereas others are from the original sources.
+I will now go through the clusters one at a time, discussing each pro-
+posed use quality in some detail. I then close with a more general discus-
+sion of my approach and its implications.
+The group on the left consists of qualities having to do with motivation.
+playability . . . . . A game has high playability when the player says »Just one more time!« 
+after game-over (Minter, 1997). The notion of playability is quite elusive 
+and obviously very attractive, given that computer games is one of the few 
+areas in digital design where the market »works« in the sense that con-
+sumer preferences have economic effects. What I mean is that computer 
+games are assessed among players and reviewed in trade magazines. Their 
+playability (in the sense used here) is a strong factor in the overall judg-
+ments formed by players and critics.
+The literature on game play seems to suggest that playability is 
+connected to the balance of goals, resources and obstacles in the game 
+(see, e.g., Pearce, 1997). If the player can acquire the resources needed 
+A MAP OF USE QUALITIES, 
+WHICH I PROPOSE AS BEING 
+IMPORTANT.4to overcome the obstacles and reach the goals, but only after signifi  cant 
+struggles, then the challenge is right to foster playability. This also entails 
+that a highly playable game should not avoid risks. In games based on 
+character identifi  cation, the playability would presumably be less if there 
+was no risk of failing. The struggle needed to reach the goals can certainly 
+involve dying and starting over a few times.
+My use of the term goals should not be taken in any ultimate sense. 
+Quite to the contrary; a highly playable game has a progression of goals 
+where a new one is introduced as the present one is reached. In adventure 
+games, this progression is often connected with an unveiling or a new 
+turn in the plot. Point-scoring games typically have the ever-progressing 
+goal of beating the previous high score.
+seductivity . . . . . A related quality is the seductivity of the use. In the words of Khaslavsky 
+and Shedroff (1999), seduction is a process of enticement (grabbing atten-
+tion and making an emotional promise), relationship (making progress 
+with small fulfi  llments and more promises, possibly ongoing for a long 
+time) and fulfi  llment (fulfi  lling the fi  nal promises and ending the experi-
+ence in a memorable and positive way).
+The example offered by Khaslavsky and Shedroff of a seductive digital 
+design is the Visual Thesaurus by Plumb Design (web-10), a web applica-
+tion that adds new dimensions on the well-known contents of a tradition-
+al thesaurus by virtue of its interactive properties. 
+•It delivers surprising novelty for most users.
+•It goes beyond obvious needs and expectations. The traditional orga-
+nization of a thesaurus is mainly an effect of the (paper) medium.
+•It creates an emotional response due to its visual and interactional 
+beauty.
+•It connects to personal goals: the fascination of words and concepts 
+(and thus: mind and thought).
+•It promises to fulfi  ll those goals.
+•It leads the casual viewer to discover deeper meanings of looking up 
+a word: the multidimensional and dynamic relationships between 
+concepts.
+anticipation . . . . . Anticipation is a quality of use that has so far mainly been connected with 
+dramatic structures and various forms of plot-driven interaction. Fujihata 
+(2001) describes the interaction process as one of participation and imagi-
+nation: »In an art of interactivity, one must be stimulated by interaction 
+and enjoy having one’s imagination activated. Interactivity is a stimula-
+tion of the power of imagination. By the power of imagination, one tries 
+to see what will happen a few milliseconds ahead. This brings a future to 
+the present. It is a bridge between a past and a future. Only interactivity 
+can make such a jump, enabling us to escape from the chronological cage. 
+I believe it is a real creation.«
+relevance, usefulness . . . . The heritage of work-oriented digital design has brought with it mo-
+tivational use qualities such as relevance and usefulness. When we call 
+something relevant, and even more so when we call something useful, we 
+THE VISUAL THESAURUS.5always need to orient to a purpose: useful for what? The traditional an-
+swer is concerned with work tasks. If a system offers the information and 
+tools you need to perform a task, then it is a useful and relevant system. 
+The connections to modernist notions such as fi  tness for purpose should 
+be obvious.
+Even though the concepts are typically used in reference to work tasks, 
+it may be noted that the words in themselves do not preclude other ap-
+plications. For instance, it seems quite sensible to talk about the relevance 
+and usefulness of a web site dedicated to (hobby) fi  shing. But there are 
+certainly some limits to these and other purpose-related qualities. As we 
+move towards entertainment and aesthetic experiences, they seem to lose 
+their signifi  cance. Is Tetris a relevant game? How useful is Osmose ?
+The group of qualities in the middle have to do with the interaction, perhaps with 
+the surfaces offered by the digital artifacts for handling and perception.
+fl  uency . . . . . Digital media are increasingly infusing our environment, typically per-
+ceptible although not always in the focus of our attention. The growing 
+peripheral presence of digital designs highlights the need for fl  uency. Use 
+is not necessarily on-or-off, full concentration or not at all. It is rather a 
+fl  uent dance among multiple representations. Information streams move 
+between center and periphery as we move through the shifting environ-
+ments of everyday life and work. Transitions need to be graceful and 
+nondisruptive.
+As an example, consider Hazed Windows (web-05), a design con-
+cept that was presented by a group of interaction design students at the 
+Malmö University school of Arts and Communication in 2001. The topic 
+of the project was Presence and the group had concentrated on light-
+weight, peripheral social communication. The affective state they sought 
+is somehow related to the thoughts of a child who draws a picture for 
+grandmother without necessarily going through with the bigger com-
+mitment of actually talking her parents into mailing the drawing. The 
+design is inspired by drawing in the mist on a window: you make marks 
+on a digital surface that is connected to other surfaces somewhere (at the 
+grandmother’s house, for instance). Your marks show up on the other 
+surface as well. The point is that the marks fade away gradually over time, 
+disappearing completely after a few hours. This technically simple feature 
+makes the whole communication situation different, starts from a fresh 
+set of assumptions regarding digital media, creates conditions for fl  uent 
+use.
+autonomy . . . . . The autonomy of a digital design has a strong infl  uence on how it is 
+handled and perceived. A strongly autonomous design, an agent, is an 
+artifact that acts on its own in the world defi  ned by the symbols accessible 
+to it. It maintains its own goals, chooses its own means and can be said on 
+some sense to have a will of its own. To the user, an agent is an actor who 
+can be more or less collaborative.
+It used to be interesting to anthropomorphize agents, that is, to de-
+sign them with human traits or qualities. The Knowledge Navigator future 6scenario from Apple in 1987 features Phil, the intelligent desktop agent, 
+who looks like a clever young man with a white shirt and bowtie. The 
+user (a university professor) instructs him in spoken language to perform 
+tasks such as answering the phone and fi  nding all relevant unread articles 
+for preparing a talk. A more recent example is the »help« function in 
+Microsoft Offi  ce .
+On the other end of the spectrum, purely non-autonomous designs are 
+tool-like in their character. The user wields the tool to process materials 
+and refi  ne them to work products. The tool is an extension of the hand or 
+the eye; an instrument that facilitates or enables certain actions, strictly 
+under user control.
+The interesting parts of the spectrum are, of course, between the 
+two extremes. Virtual spaces are increasingly being used as habitats for 
+a-life (artifi  cal life) creatures where the user/visitor can affect the course 
+of events to some extent. In some worlds, the user constructs her own 
+creature and then returns to learn how it has developed. An example is 
+The bush soul by Rebecca Allen (web-03); artists such as Christa Sommerer 
+and Jane Prophet have also presented work of this kind.
+The genres of God-games and Sim-games can also be considered in 
+terms of autonomy. An overall epic or a world simulation run autono-
+mously on a long-term timescale, whereas the player modifi  es local condi-
+tions and hopefully the general development of the gameworld by her 
+actions. Are such virtual spaces and games autonomous or not? Clearly, 
+they occupy places somewhere between the pure agent and the pure tool.
+Autonomy and fl  uency interact in an in-
+teresting way in the installation Riding the Net 
+(Sommerer et al., 2001). The idea is that an 
+ongoing face-to-face conversation is captured 
+and analyzed by a system. The system recogniz-
+es a word in the conversation, sends a request 
+for a Web image search based on the word, 
+and then presents the returned images fl  oating 
+across a large display placed peripherally to the 
+conversation participants. If the participants do 
+nothing, the images simply fl  oat by and disap-
+pear. However, if a particular image catches a 
+participant’s eye, she can reach out and touch 
+the display to hold the image still for a while. 
+One may easily imagine providing a more detailed view, richer informa-
+tion and perhaps spawning a more focused search by, e.g., a tap on the 
+held image.
+Apart from being an installation of digital art, Riding the Net can be 
+seen as a concept for less intrusive collaboration support. In that perspec-
+tive, the relative autonomy of the system in selecting search criteria and 
+fl  oating the images past the participants is signifi  cantly higher than for 
+most collaboration support systems coming out of cscw and hci tradi-
+tions. Riding the Net thus becomes more peripheral in a context of collabo-
+ration, and perhaps appropriately so.
+RIDING THE NET.7pliability . . . . . A set of information is pliable to the user if it feels like a responsive mate-
+rial; a matter of inquiry that can be manipulated in an almost tactile 
+sense; a highly involved process of exploration where the loop between 
+senses, thought and action is very tight and rapid. I make a move – the 
+material shapes and responds – I notice something new – I make another 
+move – and so on. Ahlberg et al. (1992) discuss a similar quality in their 
+concept of dynamic queries, and call it tight coupling.
+On a superfi  cial level, I attempted 
+to explore the notion of pliability in 
+the design of the Sens-A-Patch inter-
+action technique for navigation of 
+moderately sized information spaces 
+(Löwgren, 2001). It is based on the 
+idea of spatial constancy – informa-
+tion elements stay in the same place 
+on the navigation surface through a 
+session and across sessions. In order 
+to fi  t many elements onto a small 
+surface, the presentation is based 
+on overlapping clusters, on of which 
+is active at a time and the rest are 
+visually faded into the background 
+(but still legible). The user experi-
+ence indeed seems to create a certain 
+amount of involvement, at least visual interest. In one case when Sens-
+A-Patch was used to present all the contents of a web site, some users 
+reported staying on the fi  rst page longer than their information demands 
+required, in order to play with the sensation of navigating the surface.
+As we move beyond the surface, pliability as opposed to rigidity is 
+a possible direction in many fi  elds of administrative data processing 
+(Henderson & Harris, 2000; web-08). It is often the case that the use is 
+unnecessarily constrained and structured merely because of the underly-
+ing database structures used for implementation. It is quite feasible to 
+work in the direction of more free-form data, basing disambiguation and 
+other technical needs instead on social mechanisms. A simple example 
+is the rediscovery of the margins of paper forms, where annotations can 
+be made and tied to the appropriate context (the form itself) for future 
+interpretation. Most existing databases could easily be augmented with 
+free-form fi  elds similar to the margin.
+immersion . . . . . At the focus of our attention, handling and perception can become im-
+mersive. Digital design offers possibilities for quasi-physical immersion 
+by means of virtual reality technologies. The idea is to fi  ll our sensory 
+organs as much as possible with the »virtual world« and the canonical 
+example is, of course, Osmose by Char Davies (web-07). In addition to 
+visual and auditory immersion, the most powerful immersive effect in 
+Osmose comes from exploiting our kinaesthetic sense of body and mo-
+tion. Moving around in the Osmose world is accomplished not by making 
+artifi  cial gestures with datagloves, but rather by breathing in and out 
+SLIDING ACROSS
+A SENS-A-PATCH SURFACE.8and by shifting your body weight. Technically 
+speaking, there is a sensor around the chest 
+that is connected to your height above ground 
+in the virtual world. You are standing on sen-
+sors that are connected to speed and direction 
+of travel. The experience of navigating through 
+the profoundly bodily function of breathing, 
+however, is not reducible to simple technical 
+understandings.
+As we all know, immersion does not require 
+expensive equipment for sensory surround-
+stimulation. There is another kind of immer-
+sion that comes from engaging so deeply in the 
+task at hand that the world around it ceases 
+to exist. In terms of digital use experiences, it occurs sometimes when 
+writing, drawing, surfi  ng the web. A slightly more passive but very real 
+form of immersion comes from participating in or being told a captivat-
+ing story. But the perhaps most immersive activity in the digital realm is 
+programming, where complex structures are built in the delicate bal-
+ance between the programming language constructs and the limits of 
+the programmer’s mental capacity. The following quote by Alex McLean 
+(web-04) should be familiar to many programmers although the specifi  c 
+visualizations may differ widely.
+Consider this mailing list post, part of a discussion about the »feel« of 
+computer languages.
+»I’ve always pictured programming as a dance of sorts, very slow 
+and each gesture receives a great deal of attention, so that a limb or 
+a step would not stray from a particular path. Loops look like pirou-
+ettes to me, I/O feels like delicate gestures with one’s hands, no, just 
+the  fi  ngertips drawing patterns in the air. Conditionals and cases are 
+tumbles and jumps (into the air, that is). Arithmetic is kind of hazy, 
+controlled slides with no traction (think ›slick moves‹), things being 
+pushed and brushed aside.«
+A program in execution is a program in motion. Control fl  ows 
+around the program, taking data with it. Data fl  ows into the program, 
+and is breathed out again. A hacker staring intently into her screen is 
+probably turning somersaults in her mind.
+The group of qualities to the right have to do with actions and their outcomes, on 
+social levels rather than the handling and perception of surfaces themselves.
+identity . . . . . Constructing and maintaining identity is central in the use of digital 
+designs, which possess symbolic use qualities like any other designed ob-
+jects. The culture recently growing up around skins for accessory desktop 
+applications demonstrates our common desire to project just the right im-
+age. Translucent covers in vaguely organic shapes have been fi  tted onto all 
+available computing peripherals since the groundbreaking introduction of 
+the iMac in 1998.
+THE OAK TREE BY THE POND IN 
+THE OSMOSE WORLD.9But the construction of identity runs deeper than merely picking 
+the right skin (whether made of pixels or of plastic). The software of 
+Kai Krause and colleagues at MetaCreations in the 90s, the best known 
+examples perhaps being Kai’s Power Tools and Bryce , were mostly discussed 
+in terms of their innovative interfaces. However, the technical func-
+tions offered by the software were far more important (albeit perhaps 
+less noticeable). Fairly sophisticated image manipulation, 3d modelling 
+and high-quality rendering were made accessible to a general audience 
+and their desktop computers for the fi  rst time. The software focused on 
+visual results, hiding much of the complexity behind a layer of skillfully 
+designed abstraction. Users with no training or innate talent in the visual 
+arts could produce stunning results quickly and with little effort – a sig-
+nifi  cant contribution to the ongoing project of reconstructing your image 
+of yourself.
+actability . . . . . The extent to which a digital design empowers you to act is called (social) 
+actability. We may think of it as a space of possible courses of action, 
+shaped by many factors including the digital tools and media involved. 
+Classic examples include the atm and the redefi  nition of the bank in 
+everyday life, and the possible uses of anonymous conference boards for 
+open-hearted discussions as well as for vicious personal attacks.
+When we look at fi  ction and narrative settings, the corresponding use 
+quality is typically called agency: the power to take actions with effects in 
+the dramatic universe (Murray, 1997).
+A slightly more elaborate example is Avatopia (Gislén & Löwgren, 
+2002; web-02), an ongoing attempt to create a forum for nonviolent soci-
+etal action among young teenagers in Sweden. Our design work has been 
+driven mainly by the goal of creating good-enough conditions for societal 
+action. In other words, it is an example of design for actability. Most of 
+the major design decisions can be traced to this goal. For instance, the 
+forum consists of an avatar world in interplay with a short daily maga-
+zine on public-service tv: broad visibility is necessary for societal action. 
+There is a rather innovative tool in the avatar world for collaborative cre-
+ation of fi  lm: expressive tools for action, fi  tted to the medium of dissemi-
+nation. A group of teenagers have participated in the design of Avatopia 
+and will now move on to becoming beta-citizens as the avatar world is 
+implemented: the world is inhabited by rerasonably experienced citizens 
+already at public launch, hence the norms for action in Avatopia will be 
+more or less in place (socially speaking).
+fl  exibility . . . . . There is a tendency, not the least among designers, to think of digital 
+designs as something that is fi  nalized in a development process and then 
+deployed among the user community in its fi  nal shape. This is many 
+times adequate and not at all strange, given the heritage of mass produc-
+tion and specialization of the industrial age. But at the same time, it is a 
+case of under-using the potentials of the digital material. The use quality 
+of fl  exibility is becoming increasingly relevant and deserves some consid-
+eration.
+FROM THE AVATOPIA DEMO 
+(WORK IN PROGRESS).10The canonical example here is, of course, the spreadsheet. Microsoft 
+Excel and similar applications might seem like straightforward business 
+tools for fi  nancial calculation, but in fact they are highly sophisticated 
+programming environments. The programming paradigm is quite differ-
+ent from what is normally thought of as programming languages, and it is 
+apparently easy to learn and use for people without training in program-
+ming. Millions of people are doing systems development every day when 
+they construct spreadsheets with calculation formulae, for personal use or 
+for the use of colleagues in the group or department. Most of these system 
+developers have no formal training in systems development; many of the 
+systems they develop continue to grow and evolve locally as the business 
+needs change.
+An increasing demand for fl  exibility can also be seen in the hacker 
+communities and their public outlets in the form of open source projects, 
+where design and use are closely linked in a never ending development 
+process. The basic rules are that you are free to use any program you can 
+fi  nd. If you don’t like it, you don’t fi  le complaints. Instead, you modify it 
+according to your needs and give your modifi  cations back to the commu-
+nity. This culture of freely sharing work and building upon the work of 
+others can be found not only among programmers but also in, e.g., music, 
+web design and the digital arts. The idea of extending it to mainstream 
+application domains other than spreadsheet calculation is clearly appeal-
+ing.
+The group of qualities at the bottom of the map are mediations of structural 
+ qualities, engineering ideals as refl  ected in use qualities.
+effi  ciency, transparency The effi  ciency of using a digital design is typically connected to perform-
+ing tasks with external purposes. Effi  cient use is rapid and error-free. The 
+interface stands between the users and their tasks; ideally, the interface is 
+transparent, such that the required operations can be carried out without 
+distractions. The fi  eld known as human-computer interaction or hci is 
+mainly oriented towards improving the effi  ciency of computer-supported 
+tasks.
+elegance . . . . . The (technical) elegance of a digital design is a combination of power 
+and simplicity (Gelerntner, 1998). As a general aesthetic principle for 
+engineering, an artifact should perform as well as possible with as simple 
+a construction as possible. For programming, this translates to creating 
+elements (modules, objects, subroutines, programs) that compute rapidly 
+in few lines of source code. Note that simplicity is not a simple concept 
+– a highly effi  cient and compact program can be almost impossible to 
+understand for all but a few experts, still be considered an elegant piece of 
+work.
+functional minimalism . . The elegance = power + simplicity formula is often translated to the 
+realm of use qualities, more or less consciously. The idea of functional 
+minimalism can be seen as a reaction to the exploding number of fea-
+tures in many mainstream applications: provide tools that do their core 11functions well and nothing else. 
+The example presented by Shedroff 
+(2001) is the Black Berry , a wireless 
+pda strictly limited to the func-
+tions of paging, email, notepad, and 
+personal organizer.
+When the concept of Magic 
+Lenses was introduced by Xerox 
+Parc in 1993 (web-06), the com-
+bination of power and simplicity 
+made the idea resonate with many 
+people. A Magic Lens is basically 
+a semi-transparent desktop tool 
+that you can move over objects in 
+a visual interface to get »behind 
+the surface« of those objects. The 
+fi  rst demos showed lenses that presented properties of graphics objects 
+and made them available for editing; the concept has since been applied 
+to various information visualization tasks. The power of the Magic Lens is 
+in the generality of the concept and the ability to see all the way into the 
+heart of the interface objects; the simplicity is in the immediately recog-
+nizable operation.
+Finally, the group of qualities at the top of the map have to do with creating a 
+distance between the user and the digital design. Distancing as a design strategy 
+is mainly found in critical art, although there is the occasional attempt to use 
+distancing qualities analytically in understanding also work-oriented use. One 
+example is Holmlid’s (2002) discussion of surprise and confusion as a complemen-
+tary pair of aspects found in professional IT use.
+surprise . . . . . When you use a digital design, it is surprising if it challenges your as-
+sumptions. autoIllustrator by Adrian Ward (web-01) presents itself as a 
+prototypical member of the productivity tool class, a vector drawing 
+program that looks a lot like Adobe Illustrator and even has a similar name.
+Once you start using it for drawing, however, you are constantly 
+surprised. The tools in the palette are not quite like the draftsman’s tools 
+you expect, but more playful and (perhaps) somewhat threatening. For 
+example, there is a setting that distorts your shapes such that, e.g., if you 
+try to draw a square it comes out as a children’s drawing of a house. The 
+color palette reacts to your choice of color by calling you a sissy and sug-
+gesting a really strong color instead. There are little creatures called bugs 
+that walk around your drawing surface on their own, leaving ink in their 
+trails. Your assumptions are challenged with respect to the autonomy, the 
+toolness of the program.
+parafunctionality . . . . . Dunne (1999, p.44) defi  nes parafunctionality as a form of design where 
+function is used to encourage refl  ection on our relation to technology, 
+or »how electronic products condition our behavior.« Using a parafunc-
+tional object creates a heightened sense of distance, mainly because it is 
+AUTO-ILLUSTRATOR IN USE.12conceptually diffi  cult to assimilate into your view of reality. To acknowl-
+edge its usability is hence also to discover new ways of seeing (parts of) 
+the world. It should be noted that some parafunctional designs cannot be 
+(safely) used, such as the Intolerable Object by Philippe Ramette whose lens 
+focuses sunlight onto the top of your head. Modelling a use scenario in 
+your mind is in many cases enough to achieve the enstrangement moti-
+vating the parafunctional design.
+An example of parafunctionality in digital design, striking in its 
+simplicity, is the atm competition proposal by Jeff Kipnis (cited in 
+Dunne, ibid.): »People like to play lotto and people like to use the atm . 
+Why don’t you make it an option in the atm to say put your card in and 
+say, I’ll bet a little bit and see if I can get a little more out, so you ask for 
+twenty dollars, and you push the button, and you could get twenty-fi  ve 
+or you could get fi  fteen.« I would expect that most readers have never 
+thought before about combining lottery and the atm , but once the idea is 
+introduced it gives rise to all kinds of thoughts from atm use to the role 
+of money in society and everyday life.
+DISCUSSION
+In the introduction, I claimed that the attempt to articulate use qualities 
+of digital designs serves three purposes in bringing the fi  eld forward.
+First, a vocabulary of such qualities can be helpful to practicing de-
+signers in early phases of a development process. In the initial contacts 
+with a design situation, not very much is fi  xed and any road forward 
+might be equally fruitful (or fruitless). If one or a few desirable use quali-
+ties can be identifi  ed, roughly on the level of abstraction illustrated here, 
+the design process will more easily develop a sense of direction. As work 
+proceeds through conceptual to more detailed phases, the desirable quali-
+ties can be gradually refi  ned into more specifi  c goals.
+From a hci point of view, the approach I hint at above is a possible 
+answer to the commonly observed shortcoming of usability engineering: 
+that it is impossible in most cases to specify measurable usability goals as 
+early in the development process as the typical methodologies would have 
+it. Similar ideas of starting with more abstract goals, then gradually refi  n-
+ing them into a usability specifi  cation, have been advanced. An example 
+is the notion of user experience goals suggested in the recent textbook by 
+Preece et al. (2002).
+The second purpose is in clarifying communication between design-
+ers and other stakeholders, primarily the clients. Different techniques 
+have been developed in the design disciplines to deal with this notoriously 
+diffi  cult area, including the graphic-design practice of collecting and 
+discussing examples sharing a »tone« that we want to reach also in the 
+project at hand. Similarly, desirable use qualities can be communicated 
+and clarifi  ed by means of examples early in a digital design process.
+Finally, the role of research in digital design as in any other fi  eld is to 
+construct and disseminate knowledge. If we assume that the development 
+of digital systems is a design discipline, it follows that the forms of knowl-13edge produced by research must be aligned with the forms of knowledge 
+used in design. It is my belief that the articulation of use qualities in digi-
+tal designs can be a valid research contribution, provided that the results 
+observe the usual criteria for scientifi  c knowledge production.
+One specifi  c criterion deserves a short note: the use qualities thus 
+articulated have to be transferable. This means that they are meaning-
+ful outside the context in which they emanated and that enough data 
+and sources are provided for the reader to critically assess the value of 
+the constructs provided. As I hinted above, I believe that the articulation 
+of use qualities such as the ones above are one half of the constitutive 
+relationship in which a genre is constructed and maintained. Genres thus 
+defi  ne the scopes of essential meaning for the articulated qualities. An 
+over-simplifi  ed example of this argument would be the observation that 
+playability has no meaning, or at least no place as a desirable quality, in 
+the design of an industrial process supervision system. (Although it might 
+have in the context of training the process operators, as opposed to the 
+supervision and maintenance of the actual process.)
+REFERENCES
+Ahlberg, C., Williamson, C., Shneiderman, B. (1992). Dynamic queries 
+for information exploration: An implementation and evaluation. Hu-
+man Factors in Computing Systems (CHI ‘92 Proceedings) , pp. 619–626. 
+New York: ACM Press.
+Andersson, O., Cacciatore, E., Löwgren, J., Lundin, T. (forthcoming). 
+Post-hoc worknotes: A concept demonstration of video content man-
+agement. Video and paper to be presented at ACM Multimedia ‘02 .
+Dunne, A. (1999). Hertzian tales: Electronic products, aesthetic experience and 
+critical design. London: Royal College of Art.
+Fujihata, M. (2001). Understanding the world. In Leopoldseder, H., 
+Schopf, C. (eds.) Cyberarts 2001 , pp. 80–85. Wien: Springer-Verlag.
+Gelerntner, D. (1998). Machine beauty: Elegance and the heart of technology. 
+New York: Basic Books.
+Gislén, Y., Löwgren, J. (2002). Avatopia: Planning a community for non-
+violent societal action. Digital Creativity 13(1):23–37.
+Henderson, A., Harris, J. (2000). Beyond formalism: The art and science 
+of designing pliant systems. In Kaasgard, K. (ed.) Software design and 
+usability.  Copenhagen: CBS Press.
+Holmlid, S. (2002). Adapting users: Towards a theory of use quality. 
+Linköping Studies in Science and Technology, dissertation no. 765, 
+Linköping University, Sweden.
+Khaslavsky, J., Shedroff, N. (1999). Understanding the seductive experi-
+ence. Communications of the ACM 42(5):45–49.
+Löwgren, J. (2001). Sens-A-Patch: Interactive visualization of label spac-
+es. In Banissi, E. et al. (eds.) Proc. Fifth Int. Conf. Information Visualiza-
+tion (IV2001) , pp. 7–12. Los Alamitos, CA: IEEE Computer Society. 14Minter, J. (1997). Computer gaming’s new worlds. Computer Graphics
+31(1):12–13.
+Murray, J. (1997). Hamlet on the holodeck . Free Press.
+Pearce, C. (1997). The interactive book. Indianapolis: MacMillan.
+Preece, J., Rogers, Y., Sharp, H. (2002). Interaction design: Beyond human-
+computer interaction. New York: John Wiley.
+Shedroff, N. (2001). Experience design 1. Indianapolis: New Rider.
+Sommerer, C., Mignonneau, L., Lopez-Gulliver, R. (2001). Riding the 
+net. Proc. SIGGRAPH 2001 Conf. Abstracts and Applications , p. 133. New 
+York: ACM Press.
+Web sources
+[web-01] autoIllustrator. Created by Adrian Ward.
+www.auto-illustrator.com , last accessed Oct 9, 2002.
+[web-02] Avatopia. Work in progress, 2000–02.
+www.animationenshus.eksjo.se/Avatopia , last accessed Sep 23, 2002.
+[web-03] The bush soul. Created by Rebecca Allen in 1997.
+emergence.design.ucla.edu , last accessed Oct 9, 2002.
+[web-04] Hacking sound in context. By Alex McLean. 
+www.generative.net/papers/hacking/index.html , last accessed May 8, 
+2002.
+[web-05] Hazed windows. Design concept by Trine Freiesleben, Miska 
+Knapek and Henrik Moberg in 2001.
+webzone.k3.mah.se/kid01016/projekt_forskningstema.htm , last  accessed 
+Oct 9, 2002.
+[web-06] The mli project. Collection of papers on Magic Lenses by Eric 
+Bier, Ken Fishkin, Ken Pier and Maureen Stone.
+www2.parc.com/istl/projects/MagicLenses , last accessed Oct 9, 2002.
+[web-07] Osmose. Created by Char Davies in 1995.
+www.cyberstage.org/archive/cstage21/osmose21.html , last accessed Oct 21, 
+2002.
+[web-08] The Pliant research group.
+www.pliant.org , last accessed Oct 9, 2002. www.pliant.org , last accessed Oct 9, 2002. www.pliant.org
+[web-09] Post-hoc worknotes. Project intro and concept demo in Swed-
+ish, full reports in English. Created in 2001–02.
+www.animationenshus.eksjo.se/phwn , last accessed Oct 9, 2002.
+[web-10] Visual thesaurus. By Plumb Design.
+www.plumbdesign.com/thesaurus , last accessed Sep 23, 2002.
